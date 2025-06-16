@@ -49,7 +49,7 @@ const Contact = () => {
               <ul className="space-y-3 text-gray-600">
                 <li className="flex items-start gap-2">
                   <div className="w-2 h-2 bg-blue-500 rounded-full mt-2"></div>
-                  <span>6+ years of experience in web development</span>
+                  <span>2+ years of experience in web development</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <div className="w-2 h-2 bg-blue-500 rounded-full mt-2"></div>
