@@ -16,7 +16,7 @@ const About = () => {
           <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">About Me</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             I'm a passionate developer who loves creating exceptional digital experiences. 
-            With 1 year of experience and a keen eye for design and a deep understanding of modern web technologies, 
+            With 2 year of experience and a keen eye for design and a deep understanding of modern web technologies, 
             I bring ideas to life through clean, efficient code.
           </p>
         </div>
