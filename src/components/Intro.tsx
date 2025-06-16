@@ -10,7 +10,7 @@ const Intro = () => {
             Hello, I'm Yash Rajole
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            A passionate web developer with 1 year of experience creating exceptional digital experiences
+            A passionate web developer with 2 year of experience creating exceptional digital experiences
           </p>
         </div>
 
